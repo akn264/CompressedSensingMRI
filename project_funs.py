@@ -1,7 +1,7 @@
 # A collection of functions for EL6123 Final Project
 # project_funs.py
 # Aimee Nogoy akn264 
-# NYU EE BS/MS 2018 WE OUT!!!
+# NYU EE BS/MS 2018 WE OUT!!! LOL why did I say this
 # thank you!!!
 
 import numpy as np
