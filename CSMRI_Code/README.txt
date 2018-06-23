@@ -1,6 +1,4 @@
 README
-EL7133 DSP 2 Final Project
-Aimee Nogoy and Anthony Mekhanik
 
 - brain.mat file was obtained from Prof. Lustic of UC Berkeley. has the image data as well as Gaussian sensing matrix
 - Lustig's CS tutorials helped a lot. The FT functions are adapted from his demos because the transform had to be centered. 
